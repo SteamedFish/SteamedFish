@@ -5,7 +5,7 @@ on:
   #  branches: master
   workflow_dispatch:
   schedule:
-    - cron: '12 17 * * *'
+    - cron: '12 * * * *'
 
 jobs:
   update-readme:
