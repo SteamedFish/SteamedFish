@@ -1,6 +1,6 @@
 ## Graphics
 
-![My GitHub](https://github-readme-stats.vercel.app/api?username=SteamedFish&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)
+![My GitHub](https://github-readme-stats.vercel.app/api?username=SteamedFish&count_private=true&show_icons=true&theme=buefy&include_all_commits=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteamedFish&theme=buefy&hide=ruby&count_private=true&show_icons=true&layout=compact)
 
