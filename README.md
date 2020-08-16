@@ -21,17 +21,17 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-143-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 745 Contributions in 2020
+> 🏆 745 Contributions in the year 2020
  > 
-> 📦 Used 118.9 kB in GitHub's Storage 
+> 📦 118.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 10 Public repositories
  > 
-> 🔑 14 Owned Private Repositories 
+> 🔑 14 Private repositories 
 
 **I'm an Early 🐤** 
 
@@ -42,7 +42,7 @@
 🌙 Night      78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.28%
 
 ```
-📅 **I'm Most Productive on Saturdays** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday       107 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.85% 
@@ -56,25 +56,25 @@ Sunday       92 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Shanghai
+⌚︎ Time zone: Asia/Shanghai
 
-💬 Languages: 
+💬 Programming Languages: 
 Other                    33 hrs 54 mins      ████████████████████░░░░░   82.86% 
 Markdown                 2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.27% 
 Emacs Lisp               2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.02% 
 Python                   1 hr 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93% 
 Git                      55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24%
 
-🔥 Editors: 
+🔥 Code Editors: 
 Emacs                    24 hrs 29 mins      ███████████████░░░░░░░░░░   59.85% 
 Zsh                      15 hrs 51 mins      █████████░░░░░░░░░░░░░░░░   38.76% 
 Vim                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92% 
 Chrome                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Linux                    40 hrs 35 mins      ████████████████████████░   99.2% 
 Mac                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 
