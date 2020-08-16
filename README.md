@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 745 Contributions in year 2020
+> 🏆 745 Contributions in 2020
  > 
 > 📦 Used 118.9 kB in GitHub's Storage 
  > 
@@ -33,7 +33,7 @@
  > 
 > 🔑 14 Owned Private Repositories 
 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    112 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.64% 
@@ -56,7 +56,7 @@ Sunday       92 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Timezone: Asia/Shanghai
@@ -80,7 +80,7 @@ Mac                      19 mins             ░░░░░░░░░░░�
 
 ```
 
-**I mostly code in TeX** 
+**I Mostly Code in TeX** 
 
 ```text
 TeX                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
