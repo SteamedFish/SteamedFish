@@ -93,7 +93,7 @@ Vim script               1 repo              ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/SteamedFish/SteamedFish/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/SteamedFish/SteamedFish/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
