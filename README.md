@@ -19,19 +19,19 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 450 Contributions in the Year 2021
+> 🏆 451 Contributions in the Year 2021
  > 
 > 📦 123.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
-> 🔑 15 Private Repositories  
+> 🔑 14 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -46,9 +46,9 @@
 
 ```text
 Monday       69 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
-Tuesday      82 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.59% 
+Tuesday      81 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
 Wednesday    87 commits     █████░░░░░░░░░░░░░░░░░░░░   19.73% 
-Thursday     81 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
+Thursday     82 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.59% 
 Friday       62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.06% 
 Saturday     37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.39% 
 Sunday       23 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.22%
