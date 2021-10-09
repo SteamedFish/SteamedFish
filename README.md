@@ -19,6 +19,8 @@
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
+![OrgMode](https://img.shields.io/badge/orgmode-%23000000.svg?style=for-the-badge&logo=org&logoColor=white)
+
 ![ConTeXt](https://img.shields.io/badge/context-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
