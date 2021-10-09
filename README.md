@@ -1,22 +1,29 @@
 ![Metrics](https://github.com/SteamedFish/SteamedFish/blob/master/github-metrics.svg)
 
-<!-- ## Graphics -->
-
-<!-- ![My GitHub](https://github-readme-stats.vercel.app/api?username=SteamedFish&count_private=true&show_icons=true&theme=buefy&include_all_commits=false) -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteamedFish&theme=buefy&hide=ruby&count_private=true&show_icons=true&layout=compact) -->
-
 ## Platform&Tools
 
-* [![](https://img.shields.io/badge/ArchLinux--purple?style=flat-square&logo=ArchLinux)](https://www.archlinux.org/)
-* [![](https://img.shields.io/badge/Gentoo-testing-purple?style=flat-square&logo=Gentoo)](https://www.gentoo.org/)
-* [![](https://img.shields.io/badge/Doom%20Emacs-28-blue?style=flat-square&logo=Gnu%20emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
+![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
+
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
 ## Languages
 
-* [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-* [![](https://img.shields.io/badge/-Bash-00ADD8?style=flat-square&logo=Gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-* [![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+![ConTeXt](https://img.shields.io/badge/context-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ## Statistics
 
