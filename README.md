@@ -1,4 +1,4 @@
-![Metrics](https://raw.githubusercontent.com/SteamedFish/SteamedFish/master/github-metrics.svg)
+![Metrics](https://github.com/SteamedFish/SteamedFish/blob/master/github-metrics.svg)
 
 ## Platform&Tools
 
