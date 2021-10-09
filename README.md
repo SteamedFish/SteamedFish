@@ -1,10 +1,10 @@
 ![Metrics](https://metrics.lecoq.io/SteamedFish?template=classic&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai)
 
-## Graphics
+<!-- ## Graphics -->
 
-![My GitHub](https://github-readme-stats.vercel.app/api?username=SteamedFish&count_private=true&show_icons=true&theme=buefy&include_all_commits=false)
+<!-- ![My GitHub](https://github-readme-stats.vercel.app/api?username=SteamedFish&count_private=true&show_icons=true&theme=buefy&include_all_commits=false) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteamedFish&theme=buefy&hide=ruby&count_private=true&show_icons=true&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteamedFish&theme=buefy&hide=ruby&count_private=true&show_icons=true&layout=compact) -->
 
 ## Platform&Tools
 
