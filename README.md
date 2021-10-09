@@ -2,8 +2,8 @@
 
 ## Platform&Tools
 
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)](https://archlinux.org/)
-[![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0)](https://www.apple.com/macos/)
+[![Arch Linux](https://img.shields.io/badge/ArchLinux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)](https://archlinux.org/)
+[![Mac OS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macos&logoColor=F0F0F0)](https://www.apple.com/macos/)
 [![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=flat-square&logo=gnu-emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)](https://firefox.com/)
 [![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=flat-square&logo=DuckDuckGo&logoColor=white)](https://duckduckgo.com/)
