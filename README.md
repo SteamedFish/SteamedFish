@@ -2,21 +2,21 @@
 
 ## Platform&Tools
 
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
-[![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://www.apple.com/macos/)
-[![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
-[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://firefox.com/)
-[![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)](https://duckduckgo.com/)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)](https://archlinux.org/)
+[![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0)](https://www.apple.com/macos/)
+[![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=flat-square&logo=gnu-emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)](https://firefox.com/)
+[![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=flat-square&logo=DuckDuckGo&logoColor=white)](https://duckduckgo.com/)
 
 ## Languages
 
-[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![OrgMode](https://img.shields.io/badge/orgmode-%23000000.svg?style=for-the-badge&logo=org&logoColor=white)](https://orgmode.org/)
-[![ConTeXt](https://img.shields.io/badge/context-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://contextgarden.net/)
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.iso.org/standard/74528.html)
+[![Go](https://img.shields.io/badge/Golang-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![OrgMode](https://img.shields.io/badge/OrgMode-%23000000.svg?style=flat-square&logo=org&logoColor=white)](https://orgmode.org/)
+[![ConTeXt](https://img.shields.io/badge/ConTeXt-%23008080.svg?style=flat-square&logo=latex&logoColor=white)](https://contextgarden.net/)
+[![Markdown](https://img.shields.io/badge/MarkDown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
+[![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://www.iso.org/standard/74528.html)
 
 ## Social Media
 
