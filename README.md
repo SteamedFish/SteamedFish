@@ -26,8 +26,6 @@
 [![wakatime](https://wakatime.com/badge/user/168280d6-fcf2-4b4f-ad3a-dc4612f35b38.svg)](https://wakatime.com/@168280d6-fcf2-4b4f-ad3a-dc4612f35b38)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C582%20hrs%2034%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -53,7 +51,7 @@ Unknown OS               3 hrs 30 mins       ██████░░░░░�
 ```
 
 
- Last Updated on 30/01/2022 12:40:21 UTC
+ Last Updated on 30/01/2022 18:30:06 UTC
 <!--END_SECTION:waka-->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SteamedFish.SteamedFish)
