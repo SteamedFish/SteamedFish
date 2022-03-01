@@ -20,7 +20,7 @@
 
 ## Social Media
 
-[![Telegram](https://img.shields.io/badge/SteamedFish-2CA5E0?style=social&logo=telegram&logoColor=white)](https://t.me/SteamedFish)
+[![Matrix](https://img.shields.io/badge/SteamedFish-2CA5E0?style=social&logo=matrix&logoColor=black)](https://matrix.to/#/@i:steamedfish.org)
 
 ## Statistics
 [![wakatime](https://wakatime.com/badge/user/168280d6-fcf2-4b4f-ad3a-dc4612f35b38.svg)](https://wakatime.com/@168280d6-fcf2-4b4f-ad3a-dc4612f35b38)
