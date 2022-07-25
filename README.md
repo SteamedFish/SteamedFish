@@ -19,7 +19,7 @@
 [![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://www.iso.org/standard/74528.html)
 
 ## Social Media
-
+[![Telegram](https://img.shields.io/badge/SteamedFish-2CA5E0?style=social&logo=telegram&logoColor=white)](https://t.me/SteamedFish)
 [![Matrix](https://img.shields.io/badge/SteamedFish-2CA5E0?style=social&logo=matrix&logoColor=black)](https://matrix.to/#/@i:steamedfish.org)
 
 ## Statistics
