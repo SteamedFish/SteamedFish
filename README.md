@@ -19,8 +19,10 @@
 [![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://www.iso.org/standard/74528.html)
 
 ## Social Media
-[![Telegram](https://img.shields.io/badge/SteamedFish-2CA5E0?style=social&logo=telegram&logoColor=white)](https://t.me/SteamedFish)
+<!--[![Telegram](https://img.shields.io/badge/SteamedFish-2CA5E0?style=social&logo=telegram&logoColor=white)](https://t.me/SteamedFish)-->
+
 [![Matrix](https://img.shields.io/badge/SteamedFish-2CA5E0?style=social&logo=matrix&logoColor=black)](https://matrix.to/#/@i:steamedfish.org)
+[![Mastodon](https://img.shields.io/mastodon/follow/109596467238113271?domain=https%3A%2F%2Fsteamedfish.org&style=social)](https://steamedfish.org/@SteamedFish)
 
 ## Statistics
 [![wakatime](https://wakatime.com/badge/user/168280d6-fcf2-4b4f-ad3a-dc4612f35b38.svg)](https://wakatime.com/@168280d6-fcf2-4b4f-ad3a-dc4612f35b38)
