@@ -33,7 +33,7 @@
 
 📊 **This Year I Spent My Time On** 
 
-![Activity](https://wakatime.com/share/@SteamedFish/936e76d2-9029-42fe-b968-a1c2db72fa5d.svg)
+![Activity](https://wakatime.com/share/@SteamedFish/7529f30a-f1b7-40a4-8d09-e6d855cb7a13.png)
 
 ![Languages](https://wakatime.com/share/@SteamedFish/1c5e5366-0e9e-40d8-ac85-d630f61b69c6.svg)
 
