@@ -1,5 +1,3 @@
-![Metrics](https://github.com/SteamedFish/SteamedFish/blob/master/github-metrics.svg)
-
 ## Platform&Tools
 
 [![Arch Linux](https://img.shields.io/badge/ArchLinux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)](https://archlinux.org/)
@@ -60,5 +58,9 @@ Linux                    4 hrs 23 mins       ███████░░░░�
 
  Last Updated on 10/03/2023 12:46:48 UTC
 <!--END_SECTION:waka-->
+
+
+![Metrics](https://github.com/SteamedFish/SteamedFish/blob/master/github-metrics.svg)
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SteamedFish.SteamedFish)
