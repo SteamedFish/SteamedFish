@@ -33,9 +33,9 @@
 
 📊 **This Year I Spent My Time On** 
 
-<figure><embed src="https://wakatime.com/share/@SteamedFish/936e76d2-9029-42fe-b968-a1c2db72fa5d.svg"></embed></figure>
+![Activity](https://wakatime.com/share/@SteamedFish/936e76d2-9029-42fe-b968-a1c2db72fa5d.svg)
 
-<figure><embed src="https://wakatime.com/share/@SteamedFish/1c5e5366-0e9e-40d8-ac85-d630f61b69c6.svg"></embed></figure>
+![Languages](https://wakatime.com/share/@SteamedFish/1c5e5366-0e9e-40d8-ac85-d630f61b69c6.svg)
 
 📊 **This Week I Spent My Time On** 
 
