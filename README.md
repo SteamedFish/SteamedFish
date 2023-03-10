@@ -26,7 +26,13 @@
 [![PeerTube](https://img.shields.io/badge/PeerTube-23000000.svg?logo=peertube&style=social)](https://peertube.steamedfish.org/)
 
 ## Statistics
-[![wakatime](https://wakatime.com/badge/user/168280d6-fcf2-4b4f-ad3a-dc4612f35b38.svg)](https://wakatime.com/@168280d6-fcf2-4b4f-ad3a-dc4612f35b38)
+
+
+📊 **This Year I Spent My Time On** 
+
+![Activity](https://wakatime.com/share/@SteamedFish/7529f30a-f1b7-40a4-8d09-e6d855cb7a13.png)
+
+![Languages](https://wakatime.com/share/@SteamedFish/1c5e5366-0e9e-40d8-ac85-d630f61b69c6.svg)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C342%20hrs%2022%20mins-blue)
