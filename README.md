@@ -33,7 +33,7 @@
 ![Languages](https://wakatime.com/share/@SteamedFish/1c5e5366-0e9e-40d8-ac85-d630f61b69c6.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C354%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C351%20hrs%2016%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -58,7 +58,7 @@ Unknown OS               1 hr 20 mins        ██░░░░░░░░░�
 ```
 
 
- Last Updated on 16/03/2023 12:45:57 UTC
+ Last Updated on 16/03/2023 18:29:21 UTC
 <!--END_SECTION:waka-->
 
 
