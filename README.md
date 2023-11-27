@@ -33,7 +33,7 @@
 ![Languages](https://wakatime.com/share/@SteamedFish/1c5e5366-0e9e-40d8-ac85-d630f61b69c6.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C159%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C152%20hrs%2039%20mins-blue)
 
 📅 **I'm Most Productive on Thursday** 
 
@@ -71,7 +71,7 @@ Unknown OS               2 hrs               ██░░░░░░░░░�
 ```
 
 
- Last Updated on 27/11/2023 12:42:25 UTC
+ Last Updated on 27/11/2023 18:28:14 UTC
 <!--END_SECTION:waka-->
 
 
