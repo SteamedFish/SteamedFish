@@ -52,18 +52,17 @@ Sunday                   153 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-sh                       3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zsh                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 min               █████████████░░░░░░░░░░░░   53.26 % 
-Android                  1 min               ████████████░░░░░░░░░░░░░   46.74 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/09/2024 18:32:34 UTC
+ Last Updated on 06/09/2024 01:47:12 UTC
 <!--END_SECTION:waka-->
 
 
