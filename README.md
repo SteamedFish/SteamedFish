@@ -33,7 +33,7 @@
 ![Languages](https://wakatime.com/share/@SteamedFish/1c5e5366-0e9e-40d8-ac85-d630f61b69c6.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C991%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C995%20hrs%2059%20mins-blue)
 
 📅 **I'm Most Productive on Monday** 
 
@@ -52,17 +52,22 @@ Sunday                   153 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    3 hrs 25 mins       ████████████████████░░░░░   81.37 % 
+sh                       45 mins             █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Unknown Editor           3 hrs 27 mins       █████████████████████░░░░   82.01 % 
+Zsh                      40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Firefox                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/10/2024 18:34:13 UTC
+ Last Updated on 08/10/2024 01:53:26 UTC
 <!--END_SECTION:waka-->
 
 
