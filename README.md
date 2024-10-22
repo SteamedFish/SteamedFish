@@ -33,8 +33,6 @@
 ![Languages](https://wakatime.com/share/@SteamedFish/1c5e5366-0e9e-40d8-ac85-d630f61b69c6.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C060%20hrs%2017%20mins-blue)
-
 📅 **I'm Most Productive on Monday** 
 
 ```text
@@ -69,7 +67,7 @@ Android                  8 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 22/10/2024 12:51:02 UTC
+ Last Updated on 22/10/2024 18:35:15 UTC
 <!--END_SECTION:waka-->
 
 
