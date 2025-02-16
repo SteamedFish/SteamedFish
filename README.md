@@ -33,7 +33,7 @@
 ![Languages](https://wakatime.com/share/@SteamedFish/1c5e5366-0e9e-40d8-ac85-d630f61b69c6.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C305%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C304%20hrs%2014%20mins-blue)
 
 📅 **I'm Most Productive on Monday** 
 
@@ -64,7 +64,7 @@ Linux                    14 hrs 53 mins      ███████████�
 ```
 
 
- Last Updated on 16/02/2025 06:32:49 UTC
+ Last Updated on 16/02/2025 18:32:08 UTC
 <!--END_SECTION:waka-->
 
 
