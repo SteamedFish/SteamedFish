@@ -21,7 +21,6 @@
 
 [![Matrix](https://img.shields.io/badge/SteamedFish-2CA5E0?style=social&logo=matrix&logoColor=black)](https://matrix.to/#/@i:steamedfish.org)
 [![Mastodon](https://img.shields.io/mastodon/follow/109596467238113271?domain=https%3A%2F%2Fmastodon.steamedfish.org%2F&style=social)](https://steamedfish.org/@SteamedFish)
-[![PeerTube](https://img.shields.io/badge/PeerTube-23000000.svg?logo=peertube&style=social)](https://peertube.steamedfish.org/)
 
 ## Statistics
 
