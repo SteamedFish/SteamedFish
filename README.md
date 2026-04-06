@@ -32,44 +32,10 @@
 ![Languages](https://wakatime.com/share/@SteamedFish/1c5e5366-0e9e-40d8-ac85-d630f61b69c6.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C497%20hrs-blue?style=flat)
-
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   723 commits         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Tuesday                  660 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Wednesday                537 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Thursday                 657 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Friday                   534 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Saturday                 420 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Sunday                   307 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C501%20hrs%2057%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    19 hrs 55 mins      ███████████████░░░░░░░░░░   60.46 % 
-Markdown                 8 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
-sh                       2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-JSON                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-
-🔥 Editors: 
-Firefox                  15 hrs 4 mins       ███████████░░░░░░░░░░░░░░   45.74 % 
-OpenCode                 7 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-Chrome                   5 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Neovim                   2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Zsh                      1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-
-💻 Operating System: 
-Linux                    32 hrs 57 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 06/04/2026 13:46:00 UTC
+ Last Updated on 06/04/2026 19:19:10 UTC
 <!--END_SECTION:waka-->
 
 
