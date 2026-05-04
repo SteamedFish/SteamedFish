@@ -34,40 +34,8 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C663%20hrs%2029%20mins-blue?style=flat)
 
-📅 **I'm Most Productive on Monday** 
 
-```text
-Monday                   756 commits         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Tuesday                  738 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Wednesday                551 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Thursday                 685 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Friday                   565 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Saturday                 432 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Sunday                   343 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    21 hrs 38 mins      ████████████████████████░   94.56 % 
-sh                       34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-Git                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-
-🔥 Editors: 
-Firefox                  22 hrs 29 mins      █████████████████████████   98.53 % 
-Zsh                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Neovim                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-
-💻 Operating System: 
-Linux                    22 hrs 43 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 04/05/2026 14:30:16 UTC
+ Last Updated on 04/05/2026 19:55:47 UTC
 <!--END_SECTION:waka-->
 
 
