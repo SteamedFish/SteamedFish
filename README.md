@@ -32,8 +32,38 @@
 ![Languages](https://wakatime.com/share/@SteamedFish/1c5e5366-0e9e-40d8-ac85-d630f61b69c6.svg)
 
 <!--START_SECTION:waka-->
+📅 **I'm Most Productive on Monday** 
 
- Last Updated on 17/05/2026 19:36:01 UTC
+```text
+Monday                   756 commits         █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Tuesday                  746 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Wednesday                568 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Thursday                 685 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Friday                   565 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Saturday                 433 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Sunday                   343 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    4 hrs 27 mins       █████████████████████████   98.52 % 
+sh                       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+Firefox                  4 hrs 28 mins       █████████████████████████   98.93 % 
+Zsh                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+💻 Operating System: 
+Linux                    4 hrs 31 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 18/05/2026 04:41:20 UTC
 <!--END_SECTION:waka-->
 
 
