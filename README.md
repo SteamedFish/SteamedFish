@@ -32,7 +32,9 @@
 ![Languages](https://wakatime.com/share/@SteamedFish/1c5e5366-0e9e-40d8-ac85-d630f61b69c6.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C928%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C742%20hrs%2048%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2052%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Monday** 
 
@@ -51,22 +53,28 @@ Sunday                   363 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    31 hrs 10 mins      ████████████████████████░   95.47 % 
-sh                       1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-jsonc                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Lua                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Other                    32 hrs 34 mins      ████████████████████████░   94.92 % 
+sh                       1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+jsonc                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Lua                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-Firefox                  31 hrs 52 mins      ████████████████████████░   97.61 % 
-Zsh                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Neovim                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Firefox                  33 hrs 26 mins      ████████████████████████░   97.47 % 
+Zsh                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Linux                    32 hrs 38 mins      █████████████████████████   100.00 % 
+Linux                    34 hrs 18 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/07/2026 15:13:04 UTC
+ Last Updated on 27/07/2026 19:53:07 UTC
 <!--END_SECTION:waka-->
 
 
