@@ -32,7 +32,7 @@
 ![Languages](https://wakatime.com/share/@SteamedFish/1c5e5366-0e9e-40d8-ac85-d630f61b69c6.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C750%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C750%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2052%20mins-blue?style=flat)
 
@@ -53,20 +53,20 @@ Sunday                   363 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    39 hrs 2 mins       ███████████████████████░░   93.05 % 
-sh                       2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Other                    39 hrs 56 mins      ███████████████████████░░   91.71 % 
+sh                       3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+jsonc                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Firefox                  40 hrs 31 mins      ████████████████████████░   96.57 % 
-Zsh                      1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Firefox                  41 hrs 37 mins      ████████████████████████░   95.58 % 
+Zsh                      1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Neovim                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 Emacs                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Linux                    41 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    43 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -76,7 +76,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 08/08/2026 18:58:07 UTC
+ Last Updated on 09/08/2026 02:28:11 UTC
 <!--END_SECTION:waka-->
 
 
