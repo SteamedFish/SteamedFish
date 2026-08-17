@@ -2,6 +2,7 @@
 
 [![Arch Linux](https://img.shields.io/badge/ArchLinux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)](https://archlinux.org/)
 [![Mac OS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macos&logoColor=F0F0F0)](https://www.apple.com/macos/)
+[![OpenCode](https://img.shields.io/badge/OpenCode-%23000000.svg?style=flat-square&logo=opencode&logoColor=white)](https://opencode.ai/)
 [![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=flat-square&logo=gnu-emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)](https://firefox.com/)
 [![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=flat-square&logo=DuckDuckGo&logoColor=white)](https://duckduckgo.com/)
@@ -15,6 +16,10 @@
 [![ConTeXt](https://img.shields.io/badge/ConTeXt-%23008080.svg?style=flat-square&logo=latex&logoColor=white)](https://contextgarden.net/)
 [![Markdown](https://img.shields.io/badge/MarkDown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 [![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://www.iso.org/standard/74528.html)
+
+## Homepage
+
+[![steamedfish.org](https://img.shields.io/badge/steamedfish.org-00A98F?style=flat-square&logo=about.me&logoColor=white)](https://steamedfish.org/)
 
 ## Social Media
 <!--[![Telegram](https://img.shields.io/badge/SteamedFish-2CA5E0?style=social&logo=telegram&logoColor=white)](https://t.me/SteamedFish)-->
