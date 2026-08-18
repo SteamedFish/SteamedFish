@@ -37,9 +37,9 @@
 ![Languages](https://wakatime.com/share/@SteamedFish/1c5e5366-0e9e-40d8-ac85-d630f61b69c6.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C754%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C761%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20hrs%2014%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Monday** 
 
@@ -58,27 +58,47 @@ Sunday                   390 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    30 hrs 16 mins      ██████████████████████░░░   88.56 % 
-sh                       3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Other                    27 hrs 40 mins      ███████████████████░░░░░░   74.35 % 
+sh                       3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Markdown                 2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Bash                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+YAML                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 🔥 Editors: 
-Firefox                  32 hrs 53 mins      ████████████████████████░   96.19 % 
-Zsh                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Neovim                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Firefox                  30 hrs 20 mins      ████████████████████░░░░░   81.54 % 
+OpenCode                 6 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Zsh                      36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 💻 Operating System: 
-Linux                    34 hrs 11 mins      █████████████████████████   100.00 % 
+Linux                    37 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 6 hrs 21 mins (17.1%)
+
+✍️ 3,383 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 13,867,224 Input Tokens, 674,885 Output Tokens
+
+💵 $264.35 Estimated AI Cost This Week
+
+🧠 30 AI Sessions, 67 AI Prompts
+
+K                        1,995 lines         ███████████████████████░░   92.36 % 
+Deepseek                 165 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 978 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/08/2026 18:58:31 UTC
+ Last Updated on 18/08/2026 01:50:36 UTC
 <!--END_SECTION:waka-->
 
 
