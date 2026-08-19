@@ -58,47 +58,48 @@ Sunday                   390 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    27 hrs 40 mins      ███████████████████░░░░░░   74.35 % 
-sh                       3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Markdown                 2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Bash                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-YAML                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Other                    25 hrs 37 mins      ██████████████░░░░░░░░░░░   57.16 % 
+Markdown                 7 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+sh                       3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Lua                      2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Bash                     2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 🔥 Editors: 
-Firefox                  30 hrs 20 mins      ████████████████████░░░░░   81.54 % 
-OpenCode                 6 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Zsh                      36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Firefox                  28 hrs 27 mins      ████████████████░░░░░░░░░   63.49 % 
+OpenCode                 15 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   33.84 % 
+Zsh                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 💻 Operating System: 
-Linux                    37 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    44 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 21 mins (17.1%)
+⏱ AI Coding Time: 15 hrs 37 mins (34.85%)
 
-✍️ 3,383 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 8,082 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 13,867,224 Input Tokens, 674,885 Output Tokens
+🔤 101,453,630 Input Tokens, 2,086,273 Output Tokens
 
-💵 $264.35 Estimated AI Cost This Week
+💵 $890.56 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 67 AI Prompts
+🧠 95 AI Sessions, 189 AI Prompts
 
-K                        1,995 lines         ███████████████████████░░   92.36 % 
-Deepseek                 165 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+K                        4,761 lines         █████████████████████░░░░   84.76 % 
+Deepseek                 856 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 978 characters per prompt
+📄 Detailed Prompter — average 1,163 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/08/2026 18:57:30 UTC
+ Last Updated on 19/08/2026 01:53:05 UTC
 <!--END_SECTION:waka-->
 
 
