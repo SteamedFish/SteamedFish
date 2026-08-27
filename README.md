@@ -58,51 +58,51 @@ Sunday                   400 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 22 hrs 48 mins      ██████████░░░░░░░░░░░░░░░   40.17 % 
-Other                    14 hrs 16 mins      ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-Bash                     14 hrs 1 min        ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
-Lua                      2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-sh                       1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Markdown                 19 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   38.77 % 
+Bash                     14 hrs              ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+Other                    12 hrs 4 mins       ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+Lua                      1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+sh                       1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 🔥 Editors: 
-OpenCode                 43 hrs 33 mins      ███████████████████░░░░░░   76.73 % 
-Firefox                  9 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-Zsh                      1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Opencode Cli             1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Neovim                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+OpenCode                 40 hrs 26 mins      ████████████████████░░░░░   80.33 % 
+Firefox                  7 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Zsh                      1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Neovim                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Opencode Cli             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Linux                    56 hrs 45 mins      █████████████████████████   100.00 % 
+Linux                    50 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 hrs 25 mins (80.02%)
+⏱ AI Coding Time: 41 hrs 23 mins (82.21%)
 
-✍️ 14,972 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 12,860 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 72,919,770 Input Tokens, 3,927,797 Output Tokens
+🔤 49,568,816 Input Tokens, 3,251,245 Output Tokens
 
-💵 $856.30 Estimated AI Cost This Week
+💵 $588.78 Estimated AI Cost This Week
 
-🧠 120 AI Sessions, 322 AI Prompts
+🧠 92 AI Sessions, 251 AI Prompts
 
-K                        3,136 lines         ███████████████░░░░░░░░░░   58.18 % 
-Deepseek                 1,027 lines         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-M                        822 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-GPT                      362 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Opencode-Cli             43 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+K                        3,022 lines         ███████████████████████░░   90.18 % 
+M                        153 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Deepseek                 132 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Opencode-Cli             43 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+GPT                      1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 795 characters per prompt
+📄 Detailed Prompter — average 801 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/08/2026 13:16:42 UTC
+ Last Updated on 27/08/2026 09:41:12 UTC
 <!--END_SECTION:waka-->
 
 
