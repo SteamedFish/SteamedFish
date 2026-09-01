@@ -37,9 +37,9 @@
 ![Languages](https://wakatime.com/share/@SteamedFish/1c5e5366-0e9e-40d8-ac85-d630f61b69c6.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C843%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C845%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-117%20hrs%2056%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Monday** 
 
@@ -58,51 +58,51 @@ Sunday                   428 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 48 hrs 55 mins      ██████████████░░░░░░░░░░░   57.45 % 
-Other                    13 hrs 39 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Bash                     12 hrs 8 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Go                       3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Lua                      1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Markdown                 40 hrs 35 mins      ██████████████░░░░░░░░░░░   54.59 % 
+Other                    14 hrs 11 mins      █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Bash                     7 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Lua                      3 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Go                       3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔥 Editors: 
-OpenCode                 73 hrs 49 mins      ██████████████████████░░░   86.68 % 
-Firefox                  8 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Zsh                      2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Neovim                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Opencode Cli             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+OpenCode                 62 hrs 11 mins      █████████████████████░░░░   83.65 % 
+Firefox                  9 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Zsh                      2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Neovim                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Opencode Cli             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Linux                    85 hrs 9 mins       █████████████████████████   100.00 % 
+Linux                    74 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 74 hrs 53 mins (87.94%)
+⏱ AI Coding Time: 63 hrs 15 mins (85.08%)
 
-✍️ 22,540 lines written by AI, 4 lines written by hand (99.98% AI-written)
+✍️ 15,126 lines written by AI, 4 lines written by hand (99.97% AI-written)
 
-🔤 86,826,588 Input Tokens, 5,973,726 Output Tokens
+🔤 88,799,546 Input Tokens, 4,807,831 Output Tokens
 
-💵 $1852.67 Estimated AI Cost This Week
+💵 $1956.49 Estimated AI Cost This Week
 
-🧠 148 AI Sessions, 376 AI Prompts
+🧠 106 AI Sessions, 281 AI Prompts
 
-K                        11,550 lines        ███████████████████████░░   92.27 % 
-Deepseek                 748 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Opencode-Cli             211 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+K                        11,333 lines        ███████████████████████░░   92.13 % 
+Deepseek                 748 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Opencode-Cli             211 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 Mimo                     9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📄 Detailed Prompter — average 708 characters per prompt
+🤖 AI-Driven — 99.97% of written lines came from AI
+📝 Concise Prompter — average 493 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/08/2026 13:42:50 UTC
+ Last Updated on 01/09/2026 05:04:26 UTC
 <!--END_SECTION:waka-->
 
 
