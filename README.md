@@ -37,9 +37,9 @@
 ![Languages](https://wakatime.com/share/@SteamedFish/1c5e5366-0e9e-40d8-ac85-d630f61b69c6.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C931%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C936%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%2027%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Monday** 
 
@@ -58,51 +58,51 @@ Sunday                   429 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    27 hrs 13 mins      █████████████░░░░░░░░░░░░   50.08 % 
-Python                   9 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Markdown                 9 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Bash                     3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-sh                       1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Other                    26 hrs 36 mins      ████████████░░░░░░░░░░░░░   48.38 % 
+Markdown                 9 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Python                   9 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Bash                     3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+JavaScript               2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 🔥 Editors: 
-OpenCode                 26 hrs              ████████████░░░░░░░░░░░░░   47.83 % 
-Firefox                  22 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   40.82 % 
-Opencode Cli             4 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Zsh                      1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Neovim                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+OpenCode                 28 hrs 17 mins      █████████████░░░░░░░░░░░░   51.45 % 
+Firefox                  21 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   38.46 % 
+Opencode Cli             3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Zsh                      1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Neovim                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Linux                    54 hrs 21 mins      █████████████████████████   100.00 % 
+Linux                    54 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 56 mins (56.93%)
+⏱ AI Coding Time: 32 hrs 26 mins (59.0%)
 
-✍️ 20,993 lines written by AI, 21 lines written by hand (99.9% AI-written)
+✍️ 22,668 lines written by AI, 21 lines written by hand (99.91% AI-written)
 
-🔤 34,996,639 Input Tokens, 2,632,175 Output Tokens
+🔤 32,309,888 Input Tokens, 2,495,563 Output Tokens
 
-💵 $1544.42 Estimated AI Cost This Week
+💵 $1501.36 Estimated AI Cost This Week
 
-🧠 137 AI Sessions, 306 AI Prompts
+🧠 129 AI Sessions, 292 AI Prompts
 
-K                        9,524 lines         ███████████████░░░░░░░░░░   58.57 % 
-Deepseek                 4,091 lines         ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-M                        1,827 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Qwen                     818 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+K                        9,375 lines         ███████████████░░░░░░░░░░   58.72 % 
+Deepseek                 4,091 lines         ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+M                        1,827 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Qwen                     673 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.9% of written lines came from AI
-📄 Detailed Prompter — average 1,232 characters per prompt
+🤖 AI-Driven — 99.91% of written lines came from AI
+📄 Detailed Prompter — average 1,280 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.1% of changed lines were hand-edited
+🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/09/2026 15:53:56 UTC
+ Last Updated on 19/09/2026 20:37:57 UTC
 <!--END_SECTION:waka-->
 
 
