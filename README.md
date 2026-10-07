@@ -37,20 +37,20 @@
 ![Languages](https://wakatime.com/share/@SteamedFish/1c5e5366-0e9e-40d8-ac85-d630f61b69c6.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C996%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C998%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-281%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-282%20hrs%2025%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   847 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Tuesday                  831 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Wednesday                655 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Thursday                 731 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Friday                   659 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Saturday                 592 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Sunday                   485 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Monday                   847 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Tuesday                  831 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Wednesday                661 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Thursday                 731 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Friday                   659 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Saturday                 592 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Sunday                   485 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
 ```
 
 
@@ -58,28 +58,29 @@ Sunday                   485 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    22 hrs 56 mins      ████████████████░░░░░░░░░   62.96 % 
-Markdown                 7 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-Bash                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Python                   1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Go                       1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Other                    20 hrs 48 mins      ███████████████░░░░░░░░░░   59.60 % 
+Markdown                 7 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+Bash                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Python                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+JavaScript               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🔥 Editors: 
-Firefox                  19 hrs 44 mins      ██████████████░░░░░░░░░░░   54.17 % 
-OpenCode                 16 hrs 26 mins      ███████████░░░░░░░░░░░░░░   45.10 % 
-Zsh                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Firefox                  17 hrs 57 mins      █████████████░░░░░░░░░░░░   51.44 % 
+OpenCode                 16 hrs 34 mins      ████████████░░░░░░░░░░░░░   47.44 % 
+Zsh                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Opencode Cli             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Linux                    36 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    34 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 34 mins (45.47%)
+⏱ AI Coding Time: 16 hrs 49 mins (48.19%)
 
-✍️ 2,730 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,918 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 1,140,798 Input Tokens, 274,724 Output Tokens
 
@@ -87,9 +88,9 @@ Linux                    36 hrs 27 mins      ███████████�
 
 🧠 2 AI Sessions, 10 AI Prompts
 
-Kimi-For-Coding          1,864 lines         ████████████████░░░░░░░░░   64.50 % 
-K                        790 lines           ███████░░░░░░░░░░░░░░░░░░   27.34 % 
-Space-Bunny-Free         236 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Kimi-For-Coding          2,099 lines         █████████████████░░░░░░░░   67.41 % 
+K                        774 lines           ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+Space-Bunny-Free         241 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 Kimi                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
@@ -101,7 +102,7 @@ Deepseek                 0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 06/10/2026 18:22:50 UTC
+ Last Updated on 07/10/2026 05:54:30 UTC
 <!--END_SECTION:waka-->
 
 
