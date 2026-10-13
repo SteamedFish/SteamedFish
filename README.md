@@ -37,9 +37,9 @@
 ![Languages](https://wakatime.com/share/@SteamedFish/1c5e5366-0e9e-40d8-ac85-d630f61b69c6.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C040%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C040%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-325%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-325%20hrs%2056%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Monday** 
 
@@ -58,21 +58,21 @@ Sunday                   485 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    21 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   33.54 % 
-TypeScript               14 hrs 35 mins      ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-Markdown                 13 hrs 36 mins      █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Go                       6 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Python                   3 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Other                    24 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   36.49 % 
+Markdown                 13 hrs 53 mins      █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+TypeScript               13 hrs 50 mins      █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Go                       6 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Python                   3 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🔥 Editors: 
-OpenCode                 32 hrs 42 mins      ████████████░░░░░░░░░░░░░   49.94 % 
-Firefox                  20 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   31.45 % 
-Opencode Cli             11 hrs 24 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Neovim                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Zsh                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+OpenCode                 31 hrs 27 mins      ████████████░░░░░░░░░░░░░   47.06 % 
+Firefox                  22 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   33.73 % 
+Opencode Cli             12 hrs 3 mins       █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Neovim                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Zsh                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Linux                    65 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    66 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -82,7 +82,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 13/10/2026 14:09:23 UTC
+ Last Updated on 13/10/2026 22:43:41 UTC
 <!--END_SECTION:waka-->
 
 
