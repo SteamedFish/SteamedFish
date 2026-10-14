@@ -58,21 +58,21 @@ Sunday                   485 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    24 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   36.49 % 
-Markdown                 13 hrs 53 mins      █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-TypeScript               13 hrs 50 mins      █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Go                       6 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Python                   3 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Other                    28 hrs 8 mins       ███████████░░░░░░░░░░░░░░   44.19 % 
+Markdown                 16 hrs 24 mins      ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+Go                       6 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Python                   3 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Bash                     3 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 🔥 Editors: 
-OpenCode                 31 hrs 27 mins      ████████████░░░░░░░░░░░░░   47.06 % 
-Firefox                  22 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   33.73 % 
-Opencode Cli             12 hrs 3 mins       █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Neovim                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Zsh                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Firefox                  25 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   40.70 % 
+OpenCode                 22 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   35.75 % 
+Opencode Cli             14 hrs 13 mins      ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+Neovim                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Zsh                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Linux                    66 hrs 50 mins      █████████████████████████   100.00 % 
+Linux                    63 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -82,7 +82,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 14/10/2026 17:09:42 UTC
+ Last Updated on 14/10/2026 21:40:22 UTC
 <!--END_SECTION:waka-->
 
 
