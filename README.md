@@ -37,7 +37,7 @@
 ![Languages](https://wakatime.com/share/@SteamedFish/1c5e5366-0e9e-40d8-ac85-d630f61b69c6.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C084%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C084%20hrs%2015%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-372%20hrs%208%20mins-blue?style=flat)
 
@@ -58,51 +58,51 @@ Sunday                   487 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    38 hrs 55 mins      ███████████████░░░░░░░░░░   59.94 % 
-Markdown                 11 hrs 18 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Bash                     5 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Go                       4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Python                   1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Other                    39 hrs 20 mins      ████████████████░░░░░░░░░   64.68 % 
+Markdown                 9 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Go                       4 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Bash                     3 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Python                   1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔥 Editors: 
-Firefox                  37 hrs 17 mins      ██████████████░░░░░░░░░░░   57.43 % 
-OpenCode                 22 hrs 47 mins      █████████░░░░░░░░░░░░░░░░   35.09 % 
-Opencode Cli             4 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-K                        29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Zsh                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Firefox                  38 hrs 10 mins      ████████████████░░░░░░░░░   62.74 % 
+OpenCode                 20 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   33.08 % 
+Opencode Cli             2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Zsh                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+K                        9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Linux                    64 hrs 55 mins      █████████████████████████   100.00 % 
+Linux                    60 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 26 mins (42.27%)
+⏱ AI Coding Time: 22 hrs 28 mins (36.95%)
 
-✍️ 15,980 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 14,898 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 17,085,900 Input Tokens, 3,425,443 Output Tokens
+🔤 12,566,068 Input Tokens, 2,539,322 Output Tokens
 
-💵 $1340.70 Estimated AI Cost This Week
+💵 $1139.53 Estimated AI Cost This Week
 
-🧠 76 AI Sessions, 295 AI Prompts
+🧠 54 AI Sessions, 208 AI Prompts
 
-Kimi-For-Coding          10,625 lines        █████████████████░░░░░░░░   67.43 % 
-K                        3,771 lines         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-Opencode-Cli             1,187 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-DeepSeek                 173 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Kimi-For-Coding          10,248 lines        █████████████████░░░░░░░░   68.96 % 
+K                        3,430 lines         ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Opencode-Cli             1,143 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+DeepSeek                 40 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 493 characters per prompt
+📄 Detailed Prompter — average 543 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/10/2026 16:12:23 UTC
+ Last Updated on 25/10/2026 20:50:58 UTC
 <!--END_SECTION:waka-->
 
 
